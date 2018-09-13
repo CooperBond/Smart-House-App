@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "492759057602",
+    "firebase_url": "https://shapp-6786f.firebaseio.com",
+    "project_id": "shapp-6786f",
+    "storage_bucket": "shapp-6786f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492759057602:android:7d736608dff61b4b",
+        "android_client_info": {
+          "package_name": "com.example.kirill.shapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492759057602-k7n840mf757tos1a97dple7hbbpnuds9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kirill.shapp",
+            "certificate_hash": "900b76b11521b94caa05067188764d07dbc93e15"
+          }
+        },
+        {
+          "client_id": "492759057602-ucoldc1qe9e4i656mn26qdj0brbdf518.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu9ewnJxYKFUc5-mQpqH3klZdz5c-2D7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492759057602-ucoldc1qe9e4i656mn26qdj0brbdf518.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
